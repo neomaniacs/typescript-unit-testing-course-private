@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+# Production build directory
+build/
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# Compiled binary extensions
+*.dll
+*.exe
+# Compiled logs and databases
+*.sqlite
+*.sqlite3
+# OS-generated files
+.DS_Store
+Thumbs.db
+# Dependency lock files
+yarn.lock
+package-lock.json
+# Testing files
+coverage/
+# Editor configuration files
+.editorconfig
+# Mac and Windows folders
+__MACOSX/
+Thumbs.db
+# User-specific files
+*.log
+*.swp
+
